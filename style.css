@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 47px;
 }
+p{
+    color: dimgrey;
+}
 .sadikmahmud{
     color:coral
 }
@@ -44,4 +47,7 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
     
+}
+.foter-p{
+    text-align: center;
 }
