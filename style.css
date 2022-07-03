@@ -10,17 +10,18 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 180px;
 }
-.text{
+.half-width{
     width: 50%;
     padding-left: 7%;
 }
 .palign{
     text-align: justify;
 }
-.image img{
-    width: 75%;
-    padding-left: 10%;
+.half-width img{
+    width: 90%;
+    
 }
 .link-jump-button{
     text-decoration: none;
@@ -33,4 +34,12 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.palign-two{
+    text-align: justify;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
